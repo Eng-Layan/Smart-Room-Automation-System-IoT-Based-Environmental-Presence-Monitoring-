@@ -42,13 +42,14 @@ Temp: 29.0 | Hum: 45.0 | Light: 540 | Sound: 312 | Distance: 93.2
 ---
 
 ## Project Image
-
+![IMG_2830](https://github.com/user-attachments/assets/1b60cfce-f7ae-404c-b0b6-362be00569f7)
+![IMG_2829](https://github.com/user-attachments/assets/81b710d3-2c86-4167-ba65-552176ddb3d9)
 
 ---
 
 ## Watch Demo Video
-
-
+https://youtube.com/shorts/DR2CJ9a2_j8
+[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 ---
 
 ## Skills Demonstrated
