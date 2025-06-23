@@ -48,7 +48,7 @@ Temp: 29.0 | Hum: 45.0 | Light: 540 | Sound: 312 | Distance: 93.2
 ---
 
 ## Watch Demo Video
-[![Watch the demo](https://youtu.be/hXpHYm13Ypw)]
+[![Watch the demo](https://youtu.be/hXpHYm13Ypw)](https://youtu.be/hXpHYm13Ypw)
 
 ---
 
